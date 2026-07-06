@@ -1,55 +1,47 @@
 <div align="center">
-  <img src="https://cdn.hackclub.com/019e0016-9064-7c5d-947b-c805f465cc6e/aa.jpg" width="100%" heigh="100%"></img>
-  <h6>our robot at mecha mayhem w/ a bunch of stickers i got from other teams :)</h6>
-  <h1>3300D-pushback</h3>
-  <p>combined CAD &amp; code &amp; other stuff for 3300D's 2025-26 season of the VEX robotics competition</p>
+  <img src="https://github.com/user-attachments/assets/1147ebda-13f7-4630-abeb-9758334b75c4" height="500px"></img>
+  <h6>bobot</h6>
+  <h1>3300z-r1</h3>
+  <p>combined CAD &amp; code &amp; other stuff for the first revision of my teams VEX v5 competition robot</p>
 </div>
 
-this is a bot i made for the 2025-26 VEX robotics competition, [Push Back](https://www.youtube.com/watch?v=ocmONiVun9M) <br/>
-this is my 2nd year in vex robotics and i personally did all the code, design & like 90% of the build (i have a team lol they just dont do much :p)<br/>
-its not too good but it got us 9th at provincials and 13th at [Mecha Mayhem](https://www.mechamayhem.ca/) (the largest robotics competition in canada)
+this is a bot i made for the 2026-27 VEX robotics competition, [Override](https://www.youtube.com/watch?v=68NxYIAzbkY) <br/>
+this is my 3rd year in vex robotics and for this revision i did all the code, design & like 90% of the build (i have a team lol they're just busy atm and going to work laterr)<br/>
+lowk tore it down before finishing the claw to pursue r2 and r3 buut its still most of a robot lol
 
 <br>
-
-also although both code and CAD are in this repo, they arent pushed directly here when edited. if i happen to make any changes and forgor to update this repo, you can find the up to date versions here:<br>
-source for code can be found [here](https://github.com/GRA5S/3300d-vexide)<br>
-source for CAD can be found [here](https://cad.onshape.com/documents/5119595eb305ddd0ded9cce6/w/9c50d24c055f9419788323cd/e/6ffd4b0e6b945679450c4a8e)<br>
-<br>
-also more info about both can be found in their respective readmes:<br>
-[cad](cad/README.md)<br>
+also more info about the code can be found in its readme and a general journal exists too:<br>
 [code](code/README.md)
+[journal](JOURNAL.md)
 <br>
 
 ## Gallery:
-<h6> (images in somewhat chronological order other than the first 2) </h6>
+<h6> (images in somewhat chronological order) </h6>
 
-|<img height="300" src="https://cdn.hackclub.com/019ddbc8-1cbf-78a5-b22b-1eba65eff0a0/image.png">|<img height="300" src="https://cdn.hackclub.com/019ddbc8-20ef-7e46-968f-c6917d5a6064/image.png">|<img height="300" src="https://cdn.hackclub.com/019ddbfa-0a4e-74bb-b746-e622868201cd/image.png">|
+|<img height="300" src="https://github.com/user-attachments/assets/3ae3853f-2521-4444-9cad-f194c116116f">|<img height="300" src="https://github.com/user-attachments/assets/3b4061e4-e229-4182-8370-3fb19c02dff4">|<img height="300" src="https://github.com/user-attachments/assets/bac78c3a-050b-4fb8-a98f-ebc7b1fb53ae">|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img height="300" src="https://cdn.hackclub.com/019de02c-ca79-7ca9-98bf-1ffc0d79525f/image.png">|<img height="300" src="https://cdn.hackclub.com/019e0016-9064-7c5d-947b-c805f465cc6e/aa.jpg">|<img height="300" src="https://cdn.hackclub.com/019de02c-d1ac-705a-8e87-eeee6beec99b/image.png">|
-|<img height="300" src="https://cdn.hackclub.com/019de02c-d503-764d-a31c-ad21eae7f866/image.png">|<img height="300" src="https://cdn.hackclub.com/019de02c-d833-79b2-abce-b34236c79fb4/image.png">|<img height="300" src="https://cdn.hackclub.com/019de02c-db69-7d89-b5c3-2ba7d317bf3f/image.png">|
-|<img height="300" src="https://cdn.hackclub.com/019de02c-de86-73a2-b8b4-e6f3e98f6782/image.png">|<img height="300" src="https://cdn.hackclub.com/019de02c-e1e0-7021-86ac-95abb7ad5731/image.png">|<img height="300" src="https://cdn.hackclub.com/019de02c-e538-7268-b34b-a321d0ac3da5/image.png">|
-|<img height="300" src="https://cdn.hackclub.com/019de02c-e8dc-73af-a71e-f7bd1b92719f/image.png">|<img height="300" src="https://cdn.hackclub.com/019de03e-0532-79ae-829b-a0ce3a10f66d/image.png">|<img height="300" src="https://cdn.hackclub.com/019de03e-08eb-7ac1-88c3-53f756766f79/image.png">|
+|<img height="300" src="https://github.com/user-attachments/assets/d5f8719d-4bdb-4e0a-871e-84c052b9feb5">|<img height="300" src="https://github.com/user-attachments/assets/cd6bea44-a035-418a-860e-3197b74ef556">|<img height="300" src="https://github.com/user-attachments/assets/b9fe9719-ccfe-483b-95b9-98a61bcad4a4">|
+|<img height="300" src="https://cdn.hackclub.com/019f356f-85b1-7d9c-8589-dd2be29abc8f/PXL_20260520_215230378.RAW-01.COVER.webp">|<img height="300" src="https://github.com/user-attachments/assets/a9f3cc0b-cfdc-4b24-8409-3b36cef99a81">|<img height="300" src="https://github.com/user-attachments/assets/64e17934-b1b0-48e0-8dd1-7d113bdbc276">|
+|<img height="300" src="https://github.com/user-attachments/assets/1147ebda-13f7-4630-abeb-9758334b75c4">|<img height="300" src="https://github.com/user-attachments/assets/b51900f2-918d-421c-acfa-6f7047ce4328">|<img height="300" src="https://github.com/user-attachments/assets/13df391d-c9ff-4e98-a7d7-e3bd7ccdbfd9">|
+|<img height="300" src="https://github.com/user-attachments/assets/d1c9906c-3be1-40c5-98cc-7857a1a5cf05">|<img height="300" src="https://github.com/user-attachments/assets/4fbbc396-6528-4cfe-a976-cc711dc42a70">|<img height="300" src="">|
+
+
+
 
 ## Videos:
 
+https://github.com/user-attachments/assets/f18a6dcd-0f60-4b2c-ba69-254acee565c0
 
-https://github.com/user-attachments/assets/b3e13416-68d8-419c-8fc7-8d2d11edbb28
+https://github.com/user-attachments/assets/5d877248-15d4-4838-b803-da7e07c05667
 
+https://github.com/user-attachments/assets/7b083cd4-28e4-4965-97d1-a7143fa12624
 
+https://github.com/user-attachments/assets/a0facafa-c7d0-4acb-894c-f3efe99231e8
 
-https://github.com/user-attachments/assets/308764e4-f8d1-4aa0-83bb-9465cf93bb2f
-
-
-
-https://github.com/user-attachments/assets/e034a2a3-059b-47fc-a0e9-ea0ed4e874c8
-
-
-
-https://github.com/user-attachments/assets/c0217087-bc3d-496d-8db5-b2a86cc0cb03
+https://github.com/user-attachments/assets/a9d85eaf-cc1c-4904-8c3e-aed811098ace
 
 
 
-https://github.com/user-attachments/assets/25704293-e14d-4014-9e08-a618f828ee15
 
 
 
