@@ -11,7 +11,9 @@ lowk tore it down before finishing the claw to pursue r2 and r3 buut its still m
 
 <br>
 also more info about the code can be found in its readme and a general journal exists too:<br>
+
 [code](code/README.md)
+
 [journal](JOURNAL.md)
 <br>
 
