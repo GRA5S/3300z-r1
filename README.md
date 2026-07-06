@@ -10,9 +10,9 @@ this is my 3rd year in vex robotics and for this revision i did all the code, de
 lowk tore it down before finishing the claw to pursue r2 and r3 buut its still most of a robot lol
 
 <br>
-also more info about both cad and code can be found in their respective readmes:<br>
-[cad](cad/README.md)<br>
+also more info about the code can be found in its readme and a general journal exists too:<br>
 [code](code/README.md)
+[journal](JOURNAL.md)
 <br>
 
 ## Gallery:
